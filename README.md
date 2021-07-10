@@ -1,5 +1,5 @@
 
-[![Logo](https://who-ru.wtf/3283320.jpg)](#)
+[![Logo](https://hypixeI.net/d231655.png)](#)
 
 
 # OpenWeatherMap.NET
